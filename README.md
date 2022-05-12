@@ -22,7 +22,7 @@ Server:
 
 #
 
-#Project:
+Project:
 
 #[√]Downloads Plugins
 
