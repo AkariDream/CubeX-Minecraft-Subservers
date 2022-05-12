@@ -4,34 +4,36 @@ A Minecraft Server Subservers Source
 You can view abandoned items here.
 Before using the server you need to know what you can/cant do
 
+#
+
 Server:
 
-#[√]Play on localhost (Single Player)
+[√]Play on localhost (Single Player)
 
-#[√]Check the server side to check the bug
+[√]Check the server side to check the bug
 
-#[√]Modification without permission. As your own copy
+[√]Modification without permission. As your own copy
 
-#[×]As your own server. For other players to play
+[×]As your own server. For other players to play
 
-#[×]Publish after modification. And claim that it is your own.
+[×]Publish after modification. And claim that it is your own.
 
-#[!]Use Cheat (Hacking,OP Per). We cant guarantee that youll have problems while playing
+[!]Use Cheat (Hacking,OP Per). We cant guarantee that youll have problems while playing
 
-#[!]Make sure you have enough memory to run the server. So as not to lagg when playing
+[!]Make sure you have enough memory to run the server. So as not to lagg when playing
 
 #
 
 Project:
 
-#[√]Downloads Plugins
+[√]Downloads Plugins
 
-#[√]Downloads config
+[√]Downloads config
 
-#[√]Comments (Submission)
+[√]Comments (Submission)
 
-#[√]Feedback and fix bugs
+[√]Feedback and fix bugs
 
-#[×]Submit feedback on unintelligent theory/metaphysics
+[×]Submit feedback on unintelligent theory/metaphysics
 
-#[×]Plague AkariDream. includes the CubeX management group
+[×]Plague AkariDream. includes the CubeX management group
